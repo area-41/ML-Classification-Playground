@@ -1,4 +1,4 @@
-# ML-Classification-Playground
+# ML-Classification-Playground [![Python Tests](https://github.com/area-41/ML-Classification-Playground/actions/workflows/python-tests.yml/badge.svg)](https://github.com/area-41/ML-Classification-Playground/actions/workflows/python-tests.yml)
 Machine learning classification algorithms applied to real-world challenges. Dedicated to the implementation, evaluation, and comparison of supervised machine learning classification algorithms using PyTorch.
 
 ## Objective
