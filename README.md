@@ -19,6 +19,19 @@ This project aims to:
 - SoftMax 2D
 
 ---
+## Softmax Implementations
+
+### 1D Implementation
+- Single sample classification
+- Explicit gradient computation
+- Educational purpose
+
+### 2D Implementation
+- Batch processing
+- Fully vectorized
+- Optimized for performance
+
+---
 
 ## Evaluation Metrics
 
@@ -34,7 +47,7 @@ This project aims to:
 
 ## Project Structure
 
-    classification-lab/
+    ML-Classification-Playground/
     │
     ├── data/
     │   ├── raw/
