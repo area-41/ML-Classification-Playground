@@ -13,6 +13,13 @@ This project aims to:
 
 ---
 
+## Implemented Features
+
+- Modular Architecture: Clear separation between 1D and 2D model implementations.
+- Gradient Computation: Manual implementation in gradients.py versus PyTorch Autograd.
+- Robustness: Cross-validation (K-Fold) to ensure proper model generalization.
+- Visualization: Automatic generation of confusion matrices and loss curves.
+
 ## Algorithms Covered
 
 - Softmax 1D
